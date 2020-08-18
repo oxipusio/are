@@ -9,9 +9,12 @@ var texto =  document.innetHTML("vaca");
 MODIFICACION 2
 nodo.appendChild(texto);
  alert(nodo);
+ #####ccccccccccccccccc
 #aaaaaaaaaaaaaaaaaa
+#####ccccccccccccccccc
 MODIFICACION 2.1
  and aler(texto);
 TODOS SON LOS CINEFILOS DE CAMINO CANTANDO
 MODIFICACION 3
-
+#####ccccccccccccccccc
+#####ccccccccccccccccc
