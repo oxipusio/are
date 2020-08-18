@@ -18,7 +18,9 @@ nueva actualizacion 1
  nodo.appendChild(texto);
  nueva actualizacion 1NOOOOOOOOOOOOOOOOOOO
  alert(nodo);NOOOOOOOOOOOOOOOOOOO
+ #####ccccccccccccccccc
 #aaaaaaaaaaaaaaaaaaNOOOOOOOOOOOOOOOOOOO
+#####ccccccccccccccccc
 MODIFICACION 2.1
  and aler(texto);
  nueva actualizacion 1
@@ -26,5 +28,6 @@ MODIFICACION 2.1
 #caminante no hay camino
 TODOS SON LOS CINEFILOS DE CAMINO CANTANDO
 MODIFICACION 3
-
 NOOOOOOOOOOOOOOOOOOO
+#####ccccccccccccccccc
+#####ccccccccccccccccc
