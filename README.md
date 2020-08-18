@@ -25,6 +25,11 @@ MODIFICACION 2.1
  and aler(texto);
  nueva actualizacion 1
 #caminante no hay camino
+nueva actualizacion 1nueva actualizacion 1
+nueva actualizacion 1
+nueva actualizacion 1
+nueva actualizacion 1
+
 #caminante no hay camino
 TODOS SON LOS CINEFILOS DE CAMINO CANTANDO
 MODIFICACION 3
