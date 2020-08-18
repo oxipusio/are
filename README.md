@@ -1,3 +1,4 @@
+#aaaaaaaaaaaaaaaaaa
 # are are are are
 MODIFICACION 1
 
@@ -8,7 +9,8 @@ var texto =  document.innetHTML("vaca");
 MODIFICACION 2
 nodo.appendChild(texto);
  alert(nodo);
- MODIFICACION 2.1
+#aaaaaaaaaaaaaaaaaa
+MODIFICACION 2.1
  and aler(texto);
 TODOS SON LOS CINEFILOS DE CAMINO CANTANDO
 MODIFICACION 3
