@@ -1,5 +1,4 @@
 # are are are are
-# are are are
 #caminante no hay camino
 #caminante no hay camino
 {Yo caminando}
@@ -11,4 +10,6 @@ var texto =  document.innetHTML("vaca");
  and aler(texto);
 #caminante no hay camino
 #caminante no hay camino
+TODOS SON LOS CINEFILOS DE CAMINO CANTANDO
+
 
