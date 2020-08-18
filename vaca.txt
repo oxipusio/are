@@ -1,6 +1,8 @@
 Caminante no hay camino
 <html>
-  Perros
+  <ETIQUETA>
     gASASD
-  Gatos
+    MODIFICACION 1
+    MODIFICACION 2
+  <ETIQUETA/>
 <html>
