@@ -7,17 +7,18 @@ nueva actualizacion 1
 nueva actualizacion 1
 =======
 {Yo caminando}
- var algo=document.getElementById('algo');
- var nodo = document.create.node('p');
-nueva actualizacion 1
+
+NOOOOOOOOOOOOOOOOOOO
+NOOOOOOOOOOOOOOOOOOO
+nueva actualizacion 1NOOOOOOOOOOOOOOOOOOO
 var texto =  document.innetHTML("vaca");
-nodo.appendChild(texto);
-nueva actualizacion 1
+nodo.appendChild(texto);NOOOOOOOOOOOOOOOOOOO
+nueva actualizacion 1NOOOOOOOOOOOOOOOOOOO
 nueva actualizacion 1
  nodo.appendChild(texto);
- nueva actualizacion 1
- alert(nodo);
-#aaaaaaaaaaaaaaaaaa
+ nueva actualizacion 1NOOOOOOOOOOOOOOOOOOO
+ alert(nodo);NOOOOOOOOOOOOOOOOOOO
+#aaaaaaaaaaaaaaaaaaNOOOOOOOOOOOOOOOOOOO
 MODIFICACION 2.1
  and aler(texto);
  nueva actualizacion 1
@@ -26,3 +27,4 @@ MODIFICACION 2.1
 TODOS SON LOS CINEFILOS DE CAMINO CANTANDO
 MODIFICACION 3
 
+NOOOOOOOOOOOOOOOOOOO
